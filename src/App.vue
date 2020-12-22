@@ -3,7 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
-      <router-link to="/藝術學院學士班">藝術學院學士班</router-link>
+      <router-link to="/week13">week13</router-link>
     </div>
     <router-view/>
   </div>
