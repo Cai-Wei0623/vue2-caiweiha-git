@@ -26,6 +26,7 @@
           <p class="p1">國立清華大學<br>藝術學院</p>
           <p class="p2">ipth</p>
         </div>
+      <p class="p">〝春之清華〞獎學金，鼓勵藝術卓越學生<br>〝第一志願〞選讀清華（5名）！</p>
     </div>
     <div class="section">
       <img class="photo2" src="https://ipta.nthu.edu.tw/wp-content/uploads/2017/10/BG.jpg">
@@ -241,6 +242,21 @@ export default {
     top: 289px;
     border-radius: 100%;
     background: linear-gradient(180deg, #ECAA65 44.71%, rgba(236, 170, 101, 0) 100%);
+  }
+  .p {
+    position: absolute;
+    width: 534px;
+    height: 81px;
+    left: 452px;
+    top: 769px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.13em;
+    color: #ECAA65;
   }
   .p1 {
    position: absolute;
